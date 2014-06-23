@@ -4,6 +4,7 @@ Questions for an Interview
 _(Build a collection of questions to ask during your interview by taking these starters and customizing the information to fit what you’re studying.  Remember, it’s better to stick with open-ended questions that can’t be answered with a simple yes or no response.)_
 
 __Probe Questions__
+
 Tell me more about your xxx process.
 
 How frequently do you xxx?
@@ -23,6 +24,7 @@ Can you describe the social networks that you use for xxx?
 How do you decide what to xxx?
 
 __Clarifying Questions__
+
 Tell me more about that.
 
 Can you describe that.
