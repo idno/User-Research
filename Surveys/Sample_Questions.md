@@ -1,6 +1,6 @@
-# Questions for an online survey
+# Questions for a survey
 
-_(Build a collection of questions to ask in online user surveys by taking these starters and customizing the information
+_(Build a collection of questions to ask in user surveys by taking these starters and customizing the information
 to fit what you’re studying.  While interview questions should be open-ended, survey questions are best if they're
 discretely quantifiable.)_
 
