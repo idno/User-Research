@@ -58,9 +58,13 @@ currently use, and so on._
 
 ## Tasks
 
-_A series of atomic tasks that encourage the user to perform a single action with your product. Each task should have
-a number of planned follow-up questions: "where would you look if you wanted to find X?" "How would you describe what
-this product / feature does?"_
+_A series of atomic tasks that encourage the user to perform a single action with your product._
+
+_For example: sign up for a new account; complete a purchase; write a new post; share a particular object; find the
+library in the app._
+
+_Each task should have a number of planned follow-up questions: "where would you look if you wanted to find X?" "How
+would you describe what this product / feature does?"_
 
 ## Post-task questions
 
