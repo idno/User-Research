@@ -22,7 +22,7 @@ done.
 
 If you need to take a break at any point or you’d like to quite, just let me know.  That’s perfectly ok.
 
-Also, with your permission, I’d like to turn on the recording for the web conference.  The video will only be used by
+Also, with your permission, I’d like to turn on the recording for the conference.  The video will only be used by
 us internally, and it will really help me with note-taking.
 
 Is it all right if I turn on the conference recording?
@@ -43,7 +43,8 @@ __READ INSTRUCTIONS__
 
 __READ PRE-TASK QUESTIONS__
 
-Okay, let’s get started.  I’d like you to read each task out loud, complete the task, and remember to think out loud throughout the process.
+Okay, let’s get started.  I’d like you to read each task out loud, complete the task, and remember to think out loud
+throughout the process.
 
 Please begin.
 
