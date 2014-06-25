@@ -1,4 +1,6 @@
-# Confirmation email for usability study
+# Confirmation Email
+
+*(Use this email template as a starting point to send to participants confirming the time and call number for your interview.)*
 
 Hi __[participant name]__,
 
