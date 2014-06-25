@@ -11,6 +11,8 @@ How can you find out more about what your users want to accomplish?
 
 How can you find out more about what your users are looking for?
 
+__Starter Questions__
+
 How did you learn about __[product]__?
 
 Why did you decide to use __[product]__?
