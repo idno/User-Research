@@ -1,8 +1,15 @@
 # Questions for a survey
 
 _(Build a collection of questions to ask in user surveys by taking these starters and customizing the information
-to fit what you’re studying.  While interview questions should be open-ended, survey questions are best if they're
-discretely quantifiable.)_
+to fit what you’re studying.  While interview questions are great when they're open-ended, survey questions are easier to analyze when they're discretely quantifiable.  You may want to include a mix of different types of questions in your survey.  Surveys vary in length and format, but shorter surveys are often preferred by users.)_
+
+When creating questions for your survey, consider:
+
+How can you find out more about who your users are?
+
+How can you find out more about what your users want to accomplish?
+
+How can you find out more about what your users are looking for?
 
 How did you learn about __[product]__?
 
