@@ -1,6 +1,8 @@
 Screener survey for interview participants
 ------------------------------------------
 
+*(Use this template to create a screener survey to send out to people when you're recruiting for your interviews.)*
+
 We’re interviewing __[gerbil owners]__!
 
 We want to learn more about the tools and products that __[gerbil owners]__ use with their __[pet gerbils]__.  We’re looking for __[gerbils owners]__ to participate in a friendly 30-minute phone interview.  Every __[gerbil owner]__ that we talk to will receive __[an awesome incentive]__.
