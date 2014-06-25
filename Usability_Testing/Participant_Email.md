@@ -1,4 +1,4 @@
-# Email to individual usability study participant
+# Email to Confirm Participation
 
 __[Name of your usability study]__
 __[Date and time of participant appointment]__
