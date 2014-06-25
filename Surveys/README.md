@@ -17,7 +17,7 @@ __Questions__
 
 Determine what type of information you're hoping to get first, and then draft questions that will help you gather these details.
 You may want to use multiple choice questions with a provided list of responses (what tools do you use for blogging?).
-Or you may want to use questions with a rating scale (how satisfied are you with your blogging platform?).
+You may want to use questions with a rating scale (how satisfied are you with your blogging platform?).
 Or you may want to include open-ended questions (which blogging tool could you not live without?).
 
 
