@@ -9,7 +9,7 @@ __Participants__
 * If you're providing some form of compensation or reward in person, you may consider food (free lunch!), coffee/beverages, company swag, or checks ($$) as options.
 
 __Game Plan__
-* If you'er doing the usability session in person, you'll need a computer or mobile device to conduct the test on, and you'll need a way to record the screen.
+* If you're doing the usability session in person, you'll need a computer or mobile device to conduct the test on, and you'll need a way to record the screen.
 * If you're doing the usability session remotely, you'll need a screensharing program that (ideally) allows you to record the session.
 * You'll need a prototype or live product to test.
 * Based on the questions you're trying to answer, develop a list of tasks for the participant to complete.
