@@ -28,7 +28,11 @@ For online surveys, you may choose to use a tool like Google Forms, Survey Monke
 __Tips__
 
 Include demographic questions if you want a general idea of who the respondents are.
+
 Include use or tool questions if you're curious about the tools or products they use.
+
 Keep the survey as short as possible.
+
 If the survey continues onto more than one page, include an indication of progress so that the respondent has some idea of how many questions are left.
+
 Open-ended questions can be handy, but don't ask too many if you're expecting a lot of responses.  They can be harder to analyze.
